@@ -1,8 +1,11 @@
 ## Hi there 👋
+My name is Ruuri and I am a MEng Chemical engineer interested in Energy and Finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on building an AI/ML programme to help predict production outages on manufacturing facilities
+- 🌱 I’m currently learning ALL things finance particularly options contracts and how to maximise your gains.
+- 👯 I’m looking to collaborate on energy projects particularly upstream energy production and midstream storage.
+- Reach me on runjoroge@gmail.com
+
 
 <!--
 **pistothesecond/pistothesecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
