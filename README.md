@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ruuri and I am a MEng Chemical engineer interested in Energy and Finance
+My name is Ruuri and I am a MEng Chemical Engineer interested in Energy and Finance
 
 - 🔭 I’m currently working on building an AI/ML programme to help predict production outages on manufacturing facilities
 - 🌱 I’m currently learning ALL things finance particularly options contracts and how to maximise your gains.
