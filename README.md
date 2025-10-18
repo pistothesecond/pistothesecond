@@ -4,6 +4,8 @@ My name is Ruuri and I am a MEng Chemical Engineer interested in Energy and Fina
 - 🔭 I’m currently working on building an AI/ML programme to help predict production outages on manufacturing facilities
 - 🌱 I’m currently learning ALL things finance particularly options contracts and how to maximise your gains.
 - 👯 I’m looking to collaborate on energy projects particularly upstream energy production and midstream storage.
+- 🤔 I’m looking for help with data on either the kenyan or UK energy sector.
+
 - Reach me on runjoroge@gmail.com
 
 
